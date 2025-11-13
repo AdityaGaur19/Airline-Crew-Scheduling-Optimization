@@ -234,6 +234,3 @@ Or simply open the notebook in **Google Colab**.
   <b>“Scheduling is not just assigning tasks — it’s optimizing human effort under constraints.”</b>
 </p>
 ```
-
-
-Just tell me!
